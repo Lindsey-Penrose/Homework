@@ -6,9 +6,10 @@ My goals for this Data Analytics course:
 - Learn how to embody Agile methodology
 - Make connections
 
-Below is a python coding article that I enjoyed!
+I've added a link to a [python coding article](https://github.blog/developer-skills/programming-languages-and-frameworks/why-python-keeps-growing-explained/)
+that I found very informative!
 
-[Python 101](https://github.blog/developer-skills/programming-languages-and-frameworks/why-python-keeps-growing-explained/)
+
 
 
 My husband and I have been through a lot of hardships in our lives, and the one thing that has been solid for us is our home.
